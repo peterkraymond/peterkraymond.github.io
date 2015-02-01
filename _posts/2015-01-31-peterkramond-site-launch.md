@@ -1,5 +1,5 @@
 ---
-layout: blog_post
+layout: post
 title: "PeterKRaymond, Developer, Site Launch"
 date: 2015-01-31
 ---
