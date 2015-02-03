@@ -26,18 +26,14 @@ title: Peter K Raymond
                 <h2>Blog</h2>
                 <h6>ReBranding</h6>
                 <p>I'm testing new waters. I'm attempting to use this as my personal journal. If I can manage, I hope to have updates bi-weekly or monthly with notes on topics that have inspired or challenged me. This may take the form of a quote, a news article, a brief summary of conversations, or a few ideas that have been on my mind.</p>
-                <p>At this instant, I am considering what this website is for. There exist plenty of platforms that I could jot out ideas that could have all of the same content and be shared across social media for more people to read. My first justification for doing it on my own is branding and the learning opportunity. I'm constantly inspired by new things and I hope that this site will serve my ability to share and document those ideas.</p>
-                <p>Someone has surely been through all of this before, what works well and what doesn't? Shoot me an email below if you have some thoughts. For now, thanks for listening and feel free to sign up for updates in the future!</p>
-
-                <h2>{{ page.title }}</h2>
 
                 {% for post in site.posts %}
                     <!-- <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> -->
                     <!-- <div class="row"><span>{{ post.date | date_to_string }}</span>» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div> -->
-                    <div class="page-header"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
+                    <div class="jumbotron"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
                 {% endfor %}
 
-                
+
             </div>
         </div>
     </section>
