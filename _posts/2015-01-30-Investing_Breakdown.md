@@ -96,8 +96,8 @@ Reflections
 - Can I go more heavily into any sector of the market that I see positive moving forward? PJP has been a strong performer for pharmaceuticals. I see Biotech continuing positively in the future, are there funds I can look at for that? Anything in energy?
 
 - Thoughts from Dad:
-<img src="/img/DadsList.jpg" max-width:100%;>
-<img src="/img/DadsList-2.jpg" max-width:100%;>
+<img src="/img/DadsList.jpg">
+<img src="/img/DadsList-2.jpg">
 
 - Include more on breakdown of expense ratio costs:
 
@@ -240,8 +240,8 @@ http://awealthofcommonsense.com/rick-ferri-6040-portfolio/
 - 60% - Stocks
 - 40% - Bonds
 
-<img src="/img/ferri-i.png" max-width:100%;>
-<img src="/img/ferri-ii.png" max-width:100%;>
+<img src="/img/ferri-i.png">
+<img src="/img/ferri-ii.png">
 
 
 <br>

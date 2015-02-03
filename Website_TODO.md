@@ -5,6 +5,8 @@ TODO
 - Modify home page to include all blog posts in the blog category
 - When the user clicks on a blog entry, make that load new page and keep top bar with home button
 
+- fix navbar header between blog post and default styles
+
 
 
 Git Reference
