@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "PeterKRaymond, Developer, Site Launch"
 date: 2015-01-31
 ---
