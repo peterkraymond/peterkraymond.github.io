@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "PeterKRaymond, Developer, Site Launch"
+layout: blog_post
+title: "PeterKRaymond - Introductory Post"
 date: 2015-01-31
 ---
 
