@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default_blog
 title: "PeterKRaymond Investment Breakdown"
 date: 2015-01-30
 ---
