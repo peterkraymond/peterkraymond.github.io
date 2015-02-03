@@ -18,11 +18,11 @@ title: peterkraymond's Blog Archive
             <div class="col-lg-7 col-lg-offset-2">
                 <h2>{{ page.title }}</h2>
 
-            	  {% for post in site.posts %}
-				    <!-- <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> -->
-				    <!-- <div class="row"><span>{{ post.date | date_to_string }}</span>» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div> -->
-				    <div class="page-header"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
-				  {% endfor %}
+	        	{% for post in site.posts %}
+					<!-- <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> -->
+					<!-- <div class="row"><span>{{ post.date | date_to_string }}</span>» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div> -->
+					<div class="page-header"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
+				{% endfor %}
 
             </div>
         </div>
