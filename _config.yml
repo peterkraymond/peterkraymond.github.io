@@ -1,6 +1,6 @@
-name: Peter Raymond, Developer
+name: Peter K Raymond, Developer
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
 
-baseurl: URL
+baseurl: ''
