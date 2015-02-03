@@ -2,12 +2,28 @@
 layout: default
 title: peterkraymond's Blog Archive
 ---
-	<h1>{{ page.title }}</h1>
+<!-- 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 
-	  {% for post in site.posts %}
+	  {% for post in site.posts %} -->
 	    <!-- <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> -->
 	    <!-- <div class="row"><span>{{ post.date | date_to_string }}</span>» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div> -->
-	    <div class="row"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
+<!-- 	    <div class="row"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
 	  {% endfor %}
-	</ul>
+	</ul> -->
+
+
+	<section id="blog" class="container content-section text-left">
+        <div class="row">
+            <div class="col-lg-7 col-lg-offset-2">
+                <h2>{{ page.title }}</h2>
+
+            	  {% for post in site.posts %}
+				    <!-- <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> -->
+				    <!-- <div class="row"><span>{{ post.date | date_to_string }}</span>» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div> -->
+				    <div class="row"><p class="intro-text">{{ post.date | date_to_string }} » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></div>
+				  {% endfor %}
+
+            </div>
+        </div>
+    </section>
