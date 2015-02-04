@@ -96,8 +96,8 @@ Reflections
 - Can I go more heavily into any sector of the market that I see positive moving forward? PJP has been a strong performer for pharmaceuticals. I see Biotech continuing positively in the future, are there funds I can look at for that? Anything in energy?
 
 - Thoughts from Dad:
-<img src="/img/DadsList.jpg">
-<img src="/img/DadsList-2.jpg">
+<img src="/img/DadsList.jpg" style="width:100%;">
+<img src="/img/DadsList-2.jpg" style="width:100%;">
 
 - Include more on breakdown of expense ratio costs:
 
