@@ -1,5 +1,5 @@
 name: Peter K Raymond, Developer
-markdown: kramdown
+markdown: github
 
 permalink: /blog/:year/:month/:day/:title
 
