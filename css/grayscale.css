@@ -107,7 +107,7 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active {
     outline: 0;
-    background-color: #7690CF;
+    background-color: #D3DCF2;
 }
 
 @media(min-width:767px) {
