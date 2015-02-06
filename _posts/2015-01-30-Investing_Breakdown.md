@@ -4,10 +4,6 @@ title: "PeterKRaymond Investment Breakdown"
 date: 2015-01-30
 ---
 
-Investing
-=========
-
-
 Scottrade
 ---------
 
@@ -343,14 +339,6 @@ Potential Buys
 
 
 <br>
-
-
-
-
-Sell
-----
-
-EVERYTHING ELSE!
 
 
 
