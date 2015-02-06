@@ -1,9 +1,8 @@
 TODO
 ====
 
-- When the user clicks on a blog entry, make that load new page and keep top bar with home button
-- Update css for tables and other content when markdown is generated
-- fix navbar header between blog post and default styles - should be smaller and highlighting blog
+- try to understand nav bar highlighting and how it works
+- insert new picture to clean up document
 
 
 

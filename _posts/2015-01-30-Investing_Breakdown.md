@@ -219,11 +219,11 @@ Recommended Portfolio Allocations
 - 7.5% - Gold
 - 7.5% - Commodities
 
-http://awealthofcommonsense.com/back-testing-tony-robbins-weather-portfolio/
+[A Wealth Of Commonsense](http://awealthofcommonsense.com/back-testing-tony-robbins-weather-portfolio/)
 
-http://finance.yahoo.com/news/tony-robbins--ray-dalio-s--all-weather--portfolio-161619133.html
+[Yahoo Finance](http://finance.yahoo.com/news/tony-robbins--ray-dalio-s--all-weather--portfolio-161619133.html)
 
-http://www.forbes.com/sites/steveforbes/2015/01/27/bullet-proof-nest-egg-advice-from-tony-robbins-and-ray-dalio/4/
+[Forbes](http://www.forbes.com/sites/steveforbes/2015/01/27/bullet-proof-nest-egg-advice-from-tony-robbins-and-ray-dalio/4/)
 
 
 <br>
@@ -231,7 +231,7 @@ http://www.forbes.com/sites/steveforbes/2015/01/27/bullet-proof-nest-egg-advice-
 
 #### Rick Ferri 60/40 Portfolio
 
-http://awealthofcommonsense.com/rick-ferri-6040-portfolio/
+[A Wealth Of Commonsense](http://awealthofcommonsense.com/rick-ferri-6040-portfolio/)
 
 - 60% - Stocks
 - 40% - Bonds
@@ -253,7 +253,7 @@ http://awealthofcommonsense.com/rick-ferri-6040-portfolio/
 - 15% - TIPS
 - 15% - Long Term Bonds
 
-https://www.portfoliovisualizer.com/backtest-asset-class-allocation?s=y&portfolio3=Custom&portfolio2=Custom&portfolio1=David+Swensen+Yale+Endowment&TIPS1=15&annualOperation=0&TotalStockMarket1=30&initialAmount=10000&EmergingMarket1=5&endYear=2014&mode=2&annualAdjustment=0&startYear=1972&rebalanceType=1&annualPercentage=0.0&EAFE1=15&LongTermBond1=15&REIT1=20
+[Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation?s=y&portfolio3=Custom&portfolio2=Custom&portfolio1=David+Swensen+Yale+Endowment&TIPS1=15&annualOperation=0&TotalStockMarket1=30&initialAmount=10000&EmergingMarket1=5&endYear=2014&mode=2&annualAdjustment=0&startYear=1972&rebalanceType=1&annualPercentage=0.0&EAFE1=15&LongTermBond1=15&REIT1=20)
 
 
 
