@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #7690CF;
+    color: rgba(255,255,255,0.2);
 }
 
 .light {
@@ -94,7 +94,7 @@ a:focus {
 
 .navbar-custom .nav li.active {
     outline: nonte;
-    background-color: #7690CF;
+    background-color: rgba(255,255,255,0.2);
 }
 
 .navbar-custom .nav li a {
@@ -107,7 +107,7 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active {
     outline: 0;
-    background-color: #7690CF;
+    background-color: rgba(255,255,255,0.2);
 }
 
 @media(min-width:767px) {
@@ -203,7 +203,7 @@ a:focus {
 .btn-circle:focus {
     outline: 0;
     color: #fff;
-    background: #7690CF;
+    background: rgba(255,255,255,0.2);
 }
 
 .btn-circle i.animated {
@@ -315,10 +315,10 @@ a:focus {
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #7690CF;
+    border: 1px solid rgba(255,255,255,0.2);
     outline: 0;
     color: #000;
-    background-color: #7690CF;
+    background-color: rgba(255,255,255,0.2);
 }
 
 ul.banner-social-buttons {
@@ -354,13 +354,13 @@ footer p {
 ::-moz-selection {
     text-shadow: none;
     background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: rgba(255,255,255,0.2);
 }
 
 ::selection {
     text-shadow: none;
     background: #fcfcfc;
-    background: rgba(118,144,207,1);
+    background: rgba(255,255,255,0.2);
 }
 
 img::selection {
