@@ -36,6 +36,10 @@ p {
     line-height: 1.5;
 }
 
+copyright {
+    font-size: 10px;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
@@ -45,7 +49,7 @@ p {
 }
 
 a {
-    color: #998E75;
+    color: #959699;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -308,8 +312,8 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #998E75;
-    color: #998E75;
+    border: 1px solid #959699;
+    color: #959699;
     background-color: transparent;
 }
 
