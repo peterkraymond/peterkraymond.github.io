@@ -1,8 +1,17 @@
 ---
 layout: blog_post
-title: "PeterKRaymond Investment Breakdown"
-date: 2015-01-30
+title: "Investment Analysis"
+date: 2015-02-14
 ---
+
+
+I am just diving into understanding more investment decisions. There is much to be learned and much more technical analysis to be done. Below is a transparent glance into my own perspective and process when setting up my portfolio. There are too many resources to look at and I rely on some great minds for help along the way. Thank you to all who have shared valuable feedback throughout this process. In addition to my conversations and online resources below, my understanding has come from a couple of books:
+
+- [http://www.amazon.com/Will-Teach-You-To-Rich/dp/0761147489](http://www.amazon.com/Will-Teach-You-To-Rich/dp/0761147489)
+- [http://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757801](http://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757801)
+
+
+
 
 Scottrade
 ---------
@@ -11,19 +20,19 @@ Scottrade
 
 
 
-| Ticker | Name | Shares | Value |
-| ------ | ---- | ------ | ----- |
-| FPX | First Trust US IPO Index Fund | 21 | 1043.70 |
-| KBWY | PowerShares KBW Premium Yield Equity REIT Portfolio | 41 | 1536.68 |
-| PJP | PowerShares Dynamic Pharmaceuticals Portfolio | 19 | 1341.78 |
-| PKW | PowerShares Buyback Achievers Portfolio | 37 | 1765.64 |
-| SCHG | Schwab US Large-Cap Growth ETF | 23 | 1197.84 |
-| VEA | Vanguard FTSE Developed Markets Index Fund ETF | 37 | 1414.51 |
-| VO | Vanguard Mid-Cap Index Fund ETF Shares | 13 | 1603.81 |
-| VWO | Vanguard FTSE Emerging Markets Index Fund ETF | 39 | 1624.74 |
-| VTI | Vanguard Total Stock Market Index Fund ETF | 2 | 211.50 |
-| CSD | Guggenheim Spin-Off ETF | 21 | 939.75 |
-| AMJ | JPMorgan Alerian MLP Index ETN | 16 | 721.44 |
+| Ticker | Name | 
+| ------ | ---- |
+| FPX | First Trust US IPO Index Fund | 
+| KBWY | PowerShares KBW Premium Yield Equity REIT Portfolio | 
+| PJP | PowerShares Dynamic Pharmaceuticals Portfolio | 
+| PKW | PowerShares Buyback Achievers Portfolio | 
+| SCHG | Schwab US Large-Cap Growth ETF | 
+| VEA | Vanguard FTSE Developed Markets Index Fund ETF | 
+| VO | Vanguard Mid-Cap Index Fund ETF Shares | 
+| VWO | Vanguard FTSE Emerging Markets Index Fund ETF | 
+| VTI | Vanguard Total Stock Market Index Fund ETF | 
+| CSD | Guggenheim Spin-Off ETF | 
+| AMJ | JPMorgan Alerian MLP Index ETN |
 
 
 <br>
@@ -32,10 +41,10 @@ Scottrade
 JPMorgan 401K
 -------------
 
-| Ticker | Name | Shares | Value |
-| ------ | ---- | ------ | ----- |
-| VINIX | Vanguard Institutional Index Fund | 29.55 | 5561.40 |
-| VMCIX | Vanguard Mid-Cap Index Fund | 165.38 | 5579.93 |
+| Ticker | Name | 
+| ------ | ---- | 
+| VINIX | Vanguard Institutional Index Fund | 
+| VMCIX | Vanguard Mid-Cap Index Fund | 
 
 
 
@@ -85,82 +94,6 @@ Reflections
 
 
 
-- Double up on FPX for large cap? 
-	- It has faired well (in top 2 and top 5 for all views 3month - 5year)
-	- But, it doesn't have great ratings on MarketEdge of Scottrade
-
-- Can I go more heavily into any sector of the market that I see positive moving forward? PJP has been a strong performer for pharmaceuticals. I see Biotech continuing positively in the future, are there funds I can look at for that? Anything in energy?
-
-- Thoughts from Dad:
-<img src="/img/DadsList.jpg" style="width:100%;">
-<img src="/img/DadsList-2.jpg" style="width:100%;">
-
-- Include more on breakdown of expense ratio costs:
-
-
-
-
-
-
-- Also, Elon Musk has a few other energy companies that have the potential to make a large impact in the future. Email discussion thoughts from others:
-
-    > I'm an Elon Musk fanboy (like many of us) so Tesla (TSLA) and Solar City (SCTY) are in the mix. I hold a very small amount of Tesla stock - which so far has lost value - but I'm optimistic it will turnaround once gas prices return to "normal". SolarCity (Musk's cousin's company) acquired the ability to produce their own panels on top of their original business model of leasing consumer rooftops. They struck a deal with Wal-Mart for installations on some of their stores. Vivint (VSLR) is a competitor without the manufacturing capacity, currently trading much lower (around 12 dollars/share at present) but with more potential upside down the road.
-
-    > Continuing the Musk theme a bit, I would love to get in on a SpaceX IPO but since that company is not publicly traded yet, I'm interested in Orbital Sciences (ORB). This is the company behind the failed Antares rocket launch from this fall. They have a number of contracts in place for ISS missions and are probably undervalued because of the explosion. I'm much less interested (read: "zero") in companies in aerospace like Lockheed that overlap with Orbital, but make war machines. (Need to perform some due diligence to ensure that ORB does not either.)
-
-    > Vestas (VWDRY / VWSYF) wind energy - the Danish world leader in wind turbine production - seems like a good stock to hold long term, but apparently market share has eroded due to Chinese companies developing their own technology.
-
-    > Other renewable energy stocks that interest me are SunPower (SPWR) a panel manufacturer, and Brookfield Renewable Energy Partners (BEP).
-
-    > Google seems like a safe but expensive long term position. Same with Apple.
-
-    > Facebook/Twitter seem like bad bets. (I don't like the idea of investing in immaterial software/web apps that revolve around advertising to fickle tweens).
-
-    > Honestly, the only tech company I would invest in would be Paperspace. I'm expecting an Instagram/Bitcoin-esque return on that investment. No pressure Dillon. ;)
-
-    > Theme: I would invest in renewable energy/infrastructure/hardware stocks if I had the spare cash. I want to invest in companies building the future I think most of us thought we would already have by now.
-    
-
-    ---
-
-    > ok everyone, I really wanted to love Robinhood. The design is nice, the promise of no friction 0 dollar trades was awesome and I felt in on something big with the invites. So, I funded my account with not an insignificant (for me) amount of money and was ready to trade some patterns that I felt would be costly to do in my normal accounts. Well, well once I did, I found out that:
-
-    > 1. They only support straight market or limit buys, no trailing stops! What this means is that I can only set a fixed price to buy or sell a security, the strategy I wanted to trade involved repeated trailing stops, so that was out. I'm guessing they anticipated this and intentionally left this hygiene feature out.
-    > 2. Their quotes are not real-time! This means different things to different people, but basically they show quotes older than the "realtime" stock ticker that comes free with the iphone. - I wouldn't be surprised if this is how they really make money!
-    > 3. There is no research in the app, obviously it is a mobile trading platform, but there are basic signals that most stock dashboards display that are missing here. Infact you can't even watch very many stocks.
-
-    > So ... What's it good for? Well for me the only other strategy in which 0 dollar trades matter is basket buying. Right now I have a list of 14 oil stocks that I'd like to buy once I get the right signal and hold long, that would cost me about 130 bucks to do in Fidelity so I will likely use Robinhood for that since its already setup and funded. Otherwise, on individual market trades, saving 5-7 dollars isn't really worth the hassle.
-
-    > Otherwise, to me, it seems like the app promotes irresponsible trading practices to young people. Not really a very good thing.
-
-    > My verdict, find a cheap full featured discount brokerage and use that. I've heard that Merriledge has 30 free trades a month with a minimum balance, probably others competing closely there too.
-
-    > Anyway, a bit disappointed honestly. Anyone else have a different take? btw: my oil picks are: 
-
-    > CVX
-    > XOM
-    > COP
-    > SLB
-    > CLR
-    > VET
-    > CEO
-    > IPXHF
-    > OISHF
-    > BRGXF
-    > TOT
-    > BP
-    > WNR
-    > WPX
-    > GST
-
-    > These all track extremely close to the price of oil, are large established securities and are on all time lows. I'm basically waiting for q4 earnings to depress the prices further before I buy. I think within a year oil will be up to 70-90 dollars its below 50 dollars now.
-
-    > Anyone else have picks/strategies?
-
-
-
-
-
 <br>
 
 
@@ -175,7 +108,6 @@ Current Allocation
 - 14.2% - International Stocks
 - 64.7% - US Stocks
 - 10.2% - Alternatives
-
 
 
 <br>
@@ -226,7 +158,9 @@ Recommended Portfolio Allocations
 [Forbes](http://www.forbes.com/sites/steveforbes/2015/01/27/bullet-proof-nest-egg-advice-from-tony-robbins-and-ray-dalio/4/)
 
 
+
 <br>
+
 
 
 #### Rick Ferri 60/40 Portfolio
@@ -236,8 +170,8 @@ Recommended Portfolio Allocations
 - 60% - Stocks
 - 40% - Bonds
 
-<img src="/img/ferri-i.png">
-<img src="/img/ferri-ii.png">
+<img src="/img/ferri-i.png" style="width:100%;">
+<img src="/img/ferri-ii.png" style="width:100%;">
 
 
 <br>
@@ -337,7 +271,6 @@ Potential Buys
 
 
 
-
 <br>
 
 
@@ -369,12 +302,11 @@ I could adjust percentages in the short term, but for the longterm with backtest
 #### Decisions
 
 - Should I adjust allocation in 401k to also be more balanced?
-- How much of my savings account should be invested? Current thought is to keep around $6-10k for Emergency Fund. I figure I could invest my money in my savings account through my Robinhood account which doesn't have fees with a buy and hold strategy. In this account, I would consider investing in other individual stocks if there were some that I believed had a particular strong outlook for the future.
-- Thinking I may desire to invest $5500 for 2015 (or 2016) into Scottrade now for the entire year to get it in while I am doing this rebalancing.
-- If it seems smart to stay heavy in Large Cap for the time being - should I consider something like the following for the next year:
+- How much of my savings account should be invested? Current thought is to save $6-10k for Emergency Fund. I figure I could invest my money in my savings account through my Robinhood account which doesn't have fees with a buy and hold strategy. In this account, I would consider investing in other individual stocks if there were some that I believed had a particular strong outlook for the future.
+- As long as it is a "bull run" should I stay heavy in large cap? If so, I am considering something like the following for the next year:
 
 
-##### Early Allocation - (estimate $23k)
+##### Early Allocation
 
 - 54% - US Stock Market
     + VIOG - 13% - Small Cap
