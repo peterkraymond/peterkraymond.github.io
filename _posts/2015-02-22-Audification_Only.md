@@ -1,6 +1,6 @@
 ---
 layout: default_blog
-title: "Audification Intro2"
+title: "Audification Intro"
 date: 2015-02-22
 ---
 
@@ -17,7 +17,7 @@ date: 2015-02-22
 
 
 <!-- Custom stylesheet, it must be in the same directory as the html file -->
-<link rel="stylesheet" href="custom.css">
+<link rel="stylesheet" href="/css/custom.css">
 
 
 <!-- Loading mathjax macro -->
