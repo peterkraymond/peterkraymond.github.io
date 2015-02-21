@@ -1,11 +1,9 @@
 ---
-layout: blog_post
+layout: default_blog
 title: "Audification Intro"
 date: 2015-02-21
 ---
 
-
-<!DOCTYPE html>
 <html>
 <head>
 
