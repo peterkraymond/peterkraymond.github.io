@@ -11,91 +11,7 @@ I am just diving into understanding more investment decisions. There is much to 
 - [http://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757801](http://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757801)
 
 
-
-
-Scottrade
----------
-
-[Scottrade Portfolio](http://finance.yahoo.com/echarts?s=FPX+Interactive#%7B%22range%22%3A%225y%22%2C%22scale%22%3A%22linear%22%2C%22comparisons%22%3A%7B%22KBWY%22%3A%7B%22color%22%3A%22%23009999%22%2C%22weight%22%3A1%7D%2C%22PJP%22%3A%7B%22color%22%3A%22%23ff00ff%22%2C%22weight%22%3A1%7D%2C%22PKW%22%3A%7B%22color%22%3A%22%239900ff%22%2C%22weight%22%3A1%7D%2C%22SCHG%22%3A%7B%22color%22%3A%22%231c4587%22%2C%22weight%22%3A4%7D%2C%22VEA%22%3A%7B%22color%22%3A%22%239fc5e8%22%2C%22weight%22%3A1%7D%2C%22VO%22%3A%7B%22color%22%3A%22%23f1c232%22%2C%22weight%22%3A1%7D%2C%22VWO%22%3A%7B%22color%22%3A%22%2300ffff%22%2C%22weight%22%3A1%7D%2C%22VTI%22%3A%7B%22color%22%3A%22%234a86e8%22%2C%22weight%22%3A1%7D%2C%22CSD%22%3A%7B%22color%22%3A%22%23d9d9d9%22%2C%22weight%22%3A1%7D%2C%22AMJ%22%3A%7B%22color%22%3A%22%23ff0000%22%2C%22weight%22%3A1%7D%7D%7D)
-
-
-
-| Ticker | Name | 
-| ------ | ---- |
-| FPX | First Trust US IPO Index Fund | 
-| KBWY | PowerShares KBW Premium Yield Equity REIT Portfolio | 
-| PJP | PowerShares Dynamic Pharmaceuticals Portfolio | 
-| PKW | PowerShares Buyback Achievers Portfolio | 
-| SCHG | Schwab US Large-Cap Growth ETF | 
-| VEA | Vanguard FTSE Developed Markets Index Fund ETF | 
-| VO | Vanguard Mid-Cap Index Fund ETF Shares | 
-| VWO | Vanguard FTSE Emerging Markets Index Fund ETF | 
-| VTI | Vanguard Total Stock Market Index Fund ETF | 
-| CSD | Guggenheim Spin-Off ETF | 
-| AMJ | JPMorgan Alerian MLP Index ETN |
-
-
-<br>
-
-
-JPMorgan 401K
--------------
-
-| Ticker | Name | 
-| ------ | ---- | 
-| VINIX | Vanguard Institutional Index Fund | 
-| VMCIX | Vanguard Mid-Cap Index Fund | 
-
-
-
-
-<br> 
-
-
-
-Reflections
------------
-
-- VWO - Fairing poorly - looks like most emerging markets are comparable
-- VEA - Developed Markets -  1yr view - not doing great
-- AMJ - low performer for year, 2year, etc... 
-
-
-- 5 year performance in order of Percentage Return - 
-    + PJP
-    + FPX
-    + CSD
-    + PKW
-    + VO
-    + SCHG
-    + VTI
-    + (steep drop to AMJ, KBWY, VEA, VWO)
-
-- 2 year performance in order of Percentage Return - 
-    + PJP
-    + PKW
-    + FPX
-    + SCHG
-    + VO
-    + VTI
-    + KBWY
-    + (Steep drop to AMJ, CSD, VEA)
-
-- 1 year performance in order of Percentage Return - 
-    + PJP
-    + KBWY
-    + SCHG
-    + PKW
-    + VO
-    + FPX
-    + VTI
-    + VWO
-    + (steep drop to CSD, AMJ, VEA)
-
-
-
-<br>
-
+I have removed a fair amount of my information to make this into a more reasonable summary regarding asset allocation and what I will be doing next. 
 
 
 
@@ -270,9 +186,7 @@ Potential Buys
 
 
 
-
 <br>
-
 
 
 
@@ -296,7 +210,6 @@ Future Allocation
 
 
 I could adjust percentages in the short term, but for the longterm with backtesting, this allocation performed well over the last 30 years. I understand this doesn't mean that it will perform the same into the future.
-
 
 
 #### Decisions
