@@ -357,14 +357,12 @@ footer p {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(118,129,153);
+    background: #768199;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(118,129,153);
+    background: #768199;
 }
 
 img::selection {
