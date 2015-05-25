@@ -1677,7 +1677,7 @@ div#notebook {
     </script>
     <!-- End of mathjax configuration -->
 
-</head>
+<!-- </head> -->
 <body>
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">

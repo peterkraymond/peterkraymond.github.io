@@ -21,7 +21,7 @@ date: 2015-04-04
 
 
 <!-- Custom stylesheet, it must be in the same directory as the html file -->
-<!-- <link rel="stylesheet" href="custom.css"> -->
+<link rel="stylesheet" href="custom.css">
 
 <!-- Loading mathjax macro -->
 <!-- Load mathjax -->
