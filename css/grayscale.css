@@ -4,12 +4,72 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+    font-family: 'Helvet Neue Thin';
+    src: url('../fonts/HelveticaNeueLTPro-Th.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvet Neue UltLt';
+    src: url('../fonts/HelveticaNeueLTPro-UltLt.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvet Neue UltLt Ital';
+    src: url('../fonts/HelveticaNeueLTPro-UltLtExO.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvet Neue UltLt Con Ital';
+    src: url('../fonts/HelveticaNeueLTPro-UltLtCnO.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvet Neue Thin Ital';
+    src: url('../fonts/HelveticaNeueLTPro-ThExO.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvet Neue Bold';
+    src: url('../fonts/HelveticaNeueLTPro-Bd_0.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
     width: 100%;
     height: 100%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Helvet Neue Thin', sans-serif;
     color: #fff;
     background-color: #000;
+    /*letter-spacing: 0.5px;*/
+}
+
+body i {
+    width: 100%;
+    height: 100%;
+    font-family: 'Helvet Neue UltLt', sans-serif;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+body b {
+    width: 100%;
+    height: 100%;
+    font-family: 'Helvet Neue Bold', sans-serif;
+    color: #fff;
+    letter-spacing: 2px;
 }
 
 html {
@@ -23,21 +83,20 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 35px;
+    margin: 35px 0 20px;
     text-transform: uppercase;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
-    letter-spacing: 1px;
+    font-family: 'Helvet Neue Thin',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    letter-spacing: 3px;
 }
 
 p {
     margin: 0 0 25px;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.5;
 }
 
 .copyright {
-    font-size: 10px;
+    font-size: 14px;
 }
 
 @media(min-width:767px) {
@@ -69,7 +128,7 @@ a:focus {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: 'Helvet Neue Thin',Helvetica,Arial,sans-serif;*/
     background-color: #000;
 }
 
@@ -228,7 +287,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -245,7 +304,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -363,7 +422,8 @@ footer p {
 
 ::selection {
     text-shadow: none;
-    background: #BFB292;
+    /*background: #BFB292;*/
+    background: rgba(255,255,255,0.2);
 }
 
 img::selection {
