@@ -46,13 +46,39 @@
     font-style: normal;
 }
 
+.parallax {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../img/Background.jpg) no-repeat center center scroll;*/
+
+
+    /*background: -moz-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(0,0,0,1) 100%), url(../img/Background.jpg) no-repeat center center scroll; /* FF3.6+ */
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(40%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,1))), url(../img/Background.jpg) no-repeat center center scroll; /* Chrome,Safari4+ */
+    /*background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%,rgba(0,0,0,1) 100%), url(../img/Background.jpg) no-repeat center center scroll; /* Chrome10+,Safari5.1+ */
+    /*background: -o-linear-gradient(top, rgba(0,0,0,0) 40%,rgba(0,0,0,1) 100%), url(../img/Background.jpg) no-repeat center center scroll; /* Opera 11.10+ */
+    /*background: -ms-linear-gradient(top, rgba(0,0,0,0) 40%,rgba(0,0,0,1) 100%), url(../img/Background.jpg) no-repeat center center scroll; /* IE10+ */
+    /*background: linear-gradient(to bottom, rgba(0,0,0,0) 40%,rgba(0,0,0,1) 100%), url(../img/Background.jpg) no-repeat center center scroll; /* W3C */
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 ), url(../img/Background.jpg) no-repeat center center scroll; /* IE6-9 */
+
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: fixed;
+}
+
 
 body {
     width: 100%;
     height: 100%;
     font-family: 'Helvet Neue Thin', sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #000; /* transparent; /*#000*/
     /*letter-spacing: 0.5px;*/
 }
 
@@ -202,6 +228,7 @@ a:focus {
     text-align: center;
     color: #fff;
     /*background: url(../img/Background.jpg) no-repeat center center scroll;*/
+
 
     background: -moz-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(0,0,0,1) 100%), url(../img/Background.jpg) no-repeat center center scroll; /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(40%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,1))), url(../img/Background.jpg) no-repeat center center scroll; /* Chrome,Safari4+ */

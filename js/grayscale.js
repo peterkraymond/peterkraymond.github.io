@@ -4,6 +4,90 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+//  //helper function
+// function $$(selector, context) {
+//     context = context || document;
+//     var elements = context.querySelectorAll(selector);
+//     return Array.prototype.slice.call(elements);
+// }
+
+// window.addEventListener("scroll", function() {
+//     var scrolledHeight= window.pageYOffset;
+//     $$(".parallax").forEach(function(el,index,array) {
+//         var limit= el.offsetTop+ el.offsetHeight;
+//         if(scrolledHeight > el.offsetTop && scrolledHeight <= limit) {
+//             el.style.backgroundPositionY= (scrolledHeight - el.offsetTop) /1.5+ "px";
+//         } 
+//         else {
+//             el.style.backgroundPositionY= "0";
+//         }
+//     });
+// });
+
+
+$(document).ready(function(){
+    $(window).scroll(function(){
+        $top = $(window).scrollTop();
+        $('#myImg').css('-webkit-transform', 'translateY('+ ($top/0.5) +'px)');
+        $('#myImg').css('-moz-transform', 'translateY('+ ($top/0.5) +'px)');
+        $('#myImg').css('-ms-transform', 'translateY('+ ($top/0.5) +'px)');
+
+        $('#intro').css('-webkit-transform', 'translateY('+ ($top/3) +'px)');
+        $('#intro').css('-moz-transform', 'translateY('+ ($top/3) +'px)');
+        $('#intro').css('-ms-transform', 'translateY('+ ($top/3) +'px)');
+
+        // $('#skills').css('-webkit-transform', 'translateY('+ ($top/2.5) +'px)');
+        // $('#skills').css('-moz-transform', 'translateY('+ ($top/2.5) +'px)');
+        // $('#skills').css('-ms-transform', 'translateY('+ ($top/2.5) +'px)');
+
+        // $('#other').css('-webkit-transform', 'translateY('+ ($top/1) +'px)');
+        // $('#other').css('-moz-transform', 'translateY('+ ($top/1) +'px)');
+        // $('#other').css('-ms-transform', 'translateY('+ ($top/1) +'px)');
+    });
+});
+
+
+
+// // Create cross browser requestAnimationFrame method:
+// window.requestAnimationFrame = window.requestAnimationFrame
+//  || window.mozRequestAnimationFrame
+//  || window.webkitRequestAnimationFrame
+//  || window.msRequestAnimationFrame
+//  || function(f){setTimeout(f, 1000/60)}
+
+// // var parallax = document.getElementById('parallax')
+ 
+// var container = document.getElementById('container')
+// var skills = document.getElementById('skills')
+ 
+// function parallaxsections(){
+//  var scrolltop = window.pageYOffset // get number of pixels document has scrolled vertically 
+//  parallax.style.top = -scrolltop * .4 + 'px'
+//  container.style.top = -scrolltop * .2 + 'px' // move bubble1 at 20% of scroll rate
+//  skills.style.top = -scrolltop * .5 + 'px' // move bubble2 at 50% of scroll rate
+// }
+ 
+// window.addEventListener('scroll', function(){ // on page scroll
+//  requestAnimationFrame(parallaxsections) // call parallaxbubbles() on next available screen paint
+// }, false)
+
+
+
+// var parallax= document.querySelector(".parallax");
+// window.addEventListener("scroll", function() {
+//     var scrolledHeight= window.pageYOffset,
+//     limit= parallax.offsetTop+ parallax.offsetHeight;
+//     if(scrolledHeight > parallax.offsetTop && scrolledHeight <= limit) {
+//         parallax.style.backgroundPositionY= (scrolledHeight - parallax.offsetTop) /4+ "px";
+//     } 
+//     else {
+//         parallax.style.backgroundPositionY= "0";
+//     }
+// });
+
+
+
 // jQuery to collapse the navbar on scroll
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 50) {
